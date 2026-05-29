@@ -211,8 +211,7 @@ st.title(
 )
 
 st.write("""
-AI-Based Short-Term Soyabean Mandi Price Forecasting
-using AGMARKNET Data.
+AI-Based Short-Term Soyabean Mandi Price Forecasting.
 """)
 
 
